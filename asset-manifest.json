@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/feroflyReplica/static/css/main.bfeed4ca.chunk.css",
+    "main.js": "/feroflyReplica/static/js/main.08a12603.chunk.js",
+    "main.js.map": "/feroflyReplica/static/js/main.08a12603.chunk.js.map",
+    "runtime-main.js": "/feroflyReplica/static/js/runtime-main.296bf0fa.js",
+    "runtime-main.js.map": "/feroflyReplica/static/js/runtime-main.296bf0fa.js.map",
+    "static/css/2.78c7db6c.chunk.css": "/feroflyReplica/static/css/2.78c7db6c.chunk.css",
+    "static/js/2.52efe76a.chunk.js": "/feroflyReplica/static/js/2.52efe76a.chunk.js",
+    "static/js/2.52efe76a.chunk.js.map": "/feroflyReplica/static/js/2.52efe76a.chunk.js.map",
+    "static/js/3.2b25f933.chunk.js": "/feroflyReplica/static/js/3.2b25f933.chunk.js",
+    "static/js/3.2b25f933.chunk.js.map": "/feroflyReplica/static/js/3.2b25f933.chunk.js.map",
+    "index.html": "/feroflyReplica/index.html",
+    "static/css/2.78c7db6c.chunk.css.map": "/feroflyReplica/static/css/2.78c7db6c.chunk.css.map",
+    "static/css/main.bfeed4ca.chunk.css.map": "/feroflyReplica/static/css/main.bfeed4ca.chunk.css.map",
+    "static/js/2.52efe76a.chunk.js.LICENSE.txt": "/feroflyReplica/static/js/2.52efe76a.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/feroflyReplica/static/media/review.5d3ecc06.jpg",
+    "static/media/gallery1.eb72cfa6.webp": "/feroflyReplica/static/media/gallery1.eb72cfa6.webp",
+    "static/media/gallery2.c7284dbc.webp": "/feroflyReplica/static/media/gallery2.c7284dbc.webp",
+    "static/media/gallery3.cf4b1c60.webp": "/feroflyReplica/static/media/gallery3.cf4b1c60.webp",
+    "static/media/gallery4.1bc791f6.webp": "/feroflyReplica/static/media/gallery4.1bc791f6.webp",
+    "static/media/gallery5.bbbc29ee.webp": "/feroflyReplica/static/media/gallery5.bbbc29ee.webp",
+    "static/media/gallery6.eaa58f6f.webp": "/feroflyReplica/static/media/gallery6.eaa58f6f.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296bf0fa.js",
+    "static/css/2.78c7db6c.chunk.css",
+    "static/js/2.52efe76a.chunk.js",
+    "static/css/main.bfeed4ca.chunk.css",
+    "static/js/main.08a12603.chunk.js"
+  ]
+}
