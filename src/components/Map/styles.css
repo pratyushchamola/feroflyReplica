@@ -1,0 +1,17 @@
+.mapComponentWrapper{
+    color: 'white';
+    background: 'grey';
+    padding: '15px 10px';
+    display: 'inline-flex';
+    text-align: 'center';
+    align-items: 'center';
+    justify-content: 'center';
+    border-radius: '100%';
+    transform: 'translate(-50%, -50%)';
+    /* width: 100%; */
+}
+
+.mapWrapper{
+    width: 100%;
+    height: 400px;
+}

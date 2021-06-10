@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
+
+.serviceMainWrapper{
+    /* border: 2px solid black; */
+    text-align: center;
+    margin: 4rem auto !important;
+    font-family: 'GFS Didot', serif;
+}
+
+.serviceHeading > h3 {
+    /* border: 2px solid pink; */
+    margin: 2rem 0 !important;
+}
+
+.iconText{
+    font-size: 1.3rem;
+}
+
+.serviceText{
+    font-style: italic;
+    font-size: small;
+    /* border: 2px solid mediumseagreen; */
+    width: 40%;
+    margin: auto;
+}

@@ -1,0 +1,7 @@
+.midFootbar{
+    border: 2px solid black !important;
+    background-color: black;
+    color: white;
+    text-align: center;
+    /* font-size: large; */
+}
