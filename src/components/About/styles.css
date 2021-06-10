@@ -6,14 +6,12 @@ body{
 
 .heading{
     width: 100%;
-    /* border: 2px solid black; */
     text-align: center;
     font-size: 3rem;
 }
 
 .aboutDescription{
     width: 100% !important;
-    /* border: 2px solid black !important; */
     margin: 3rem 0rem !important;
 }
 
@@ -22,9 +20,7 @@ body{
 
     .aboutDescription > p {
         width: 80% !important;
-        /* margin: 0 !important; */
         font-size: small;
-        /* border: 2px solid orange; */
     }
 }
 
@@ -32,7 +28,6 @@ body{
     width: 60% !important;
     font-style: italic;
     font-weight: lighter;
-    /* border: 2px solid pink !important; */
     margin: auto !important;
     text-align: center;
 }

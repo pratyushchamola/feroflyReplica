@@ -2,15 +2,12 @@
 
 
 .header-wraper{
-    /* height: 100vh !important; */
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     margin: 6rem auto !important;
-    /* border: 2px solid orange !important; */
     width: fit-content;
-    /* overflow-x: hidden; */
 }
 
 @media (max-width: 995px){
@@ -20,7 +17,6 @@
 }
 
 .top-text{
-    /* border: 2px solid black; */
     margin: 4rem 0rem !important;
     font-family: 'GFS Didot', serif;
     font-style: italic;
@@ -31,17 +27,13 @@
 .bolderText{
     font-weight: bold;
     font-size: 2rem;
-    /* letter-spacing: 0.4rem; */
 }
 
 .bottomText{
     text-decoration: dashed;
-    /* text-decoration-color: black; */
 }
 
 .backgroundImage{
-    /* z-index: 1; */
-    /* border: 4px solid orange; */
     background-image: url("../../images/home.jpg");
     height: 80vh;
     width: 90%;
@@ -50,38 +42,25 @@
     background-repeat: no-repeat;
     background-size: cover !important;
     margin: auto !important;
-    /* overflow-x: hidden; */
 }
 
 
 .rowWrapper{
-    /* border: 2px solid magenta; */
     margin: 1rem 0rem !important;
-    /* margin: 4rem !important; */
     text-align: left;
 }
 
 .rowWrapper > form {
-    /* border: 2px solid orange; */
     padding: auto !important;
 }
 
-.inputModify > div {
-    /* border: 2px solid red !important; */
-    /* margin: auto; */
-}
 
 .dateRoute{
-    /* border: 2px solid purple !important; */
     width: fit-content;
-    /* margin:auto !important; */
     display: flex !important;
     align-items: flex-end;
 }
 
-.dateWrapper{
-    /* border: 2px solid purple !important; */
-}
 
 
 
@@ -91,15 +70,11 @@
     }
 
     .dateWrapper{
-        /* border: 2px solid maroon; */
         margin: 0.5rem auto !important;
         text-align: center;
-        /* width: 100%; */
     }
 
     .dateRoute{
-        /* border: 2px solid orange; */
-        /* margin: auto !important; */
         width: 100%;
     }
 }
