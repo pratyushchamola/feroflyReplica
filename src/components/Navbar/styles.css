@@ -1,12 +1,10 @@
 @media(min-width: 960px){
     .collapse > ul {
-        /* border: 2px solid pink !important; */
         margin: auto !important;
         padding: 0.8rem  !important;
     }
 
     .collapse > ul > li {
-        /* border: 2px solid pink; */
         padding: 0.4rem 0.8rem !important;
     }
 

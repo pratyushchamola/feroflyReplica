@@ -1,10 +1,8 @@
 .thingsWrapper{
-    /* border: 2px solid black !important; */
     text-align: center;
     margin: 4rem !important;
 }
 .thingsHeading{
-    /* border: 2px solid pink; */
     margin: 1rem auto !important;
 }
 
@@ -13,7 +11,6 @@
 }
 
 .thingsContent{
-    /* border: 2px solid maroon; */
     font-size: small;
     font-style: italic;
     width: 50%;

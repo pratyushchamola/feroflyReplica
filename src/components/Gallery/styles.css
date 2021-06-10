@@ -1,21 +1,14 @@
-/* .imgDimension{
-    height: min-content;
-} */
 
 .galleryHeading{
-    /* border: 2px solid black; */
     margin: 2rem auto !important;
 }
 .galleryWrapper{
-    /* border: 2px solid magenta !important; */
     text-align: center;
     margin: 4rem;
     padding: 2rem !important;
-    /* height: 60vh; */
 }
 
 .imgWrapper > div > img{
-    /* border: 2px solid black !important; */
     height: 70vh;
     width: 50vw;
 }
@@ -27,12 +20,10 @@
 }
 
 .imgWrapper > div {
-    /* border: 2px solid purple; */
     height: 100%;
 }
 
 .gallery-content{
-    /* border: 2px solid blue; */
     height: 50%;
     width: 70%;
     margin: auto;
